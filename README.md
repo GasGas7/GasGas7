@@ -12,7 +12,7 @@ I'm studying as Full Stack Web Developer at Boolean Careers course.
 
 ## ⚡Technologies and Frameworks:
 
--- I'm currently learning different technologies like:
+-- I'm currently learning different technologies :
 
 * _HTML_ 
 * _CSS_
