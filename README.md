@@ -1,6 +1,13 @@
-## Hi there, welcome into my Github 👋
+# Hi there, welcome into my Github 👋
 
-![](/image/bannergitHub.png)
+<hr>
+
+### About me 👀
+
+My name is _Diego Gastaldi_ from Genoa-Italy.
+
+I'm studying as Full Stack Web Developer with Boolean Careers course and I'm currently learning different technologies like _HTML_, _CSS_, _JS_ and _PHP_ 
+ 
 
 <!--
 **GasGas7/GasGas7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
