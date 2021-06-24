@@ -25,7 +25,7 @@ I'm studying as Full Stack Web Developer at Boolean Careers course.
 
 <hr>
 
-### 🔥🔥  Take a look at my projects👇  🔥🔥
+### 👇Take a look at my projects 🔥🔥
 
    
 
