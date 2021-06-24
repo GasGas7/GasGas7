@@ -19,7 +19,7 @@ I'm studying as Full Stack Web Developer at Boolean Careers course.
 * _JS_
 * _PHP_
 * _Bootstrap-4.6_
-* _VueJS_ ![](vuejs-brands.svg)
+* _VueJS_ ![](/images/vuejs-brands.svg)
 * _SASS_ with _Laravel-Mix_
 * _MySQL_
 
