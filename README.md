@@ -22,6 +22,7 @@ I'm studying as Full Stack Web Developer at Boolean Careers course.
 * _VueJS_
 * _SASS_ with _Laravel-Mix_
 * _MySQL_
+* _Laravel_
 
 <hr>
 
