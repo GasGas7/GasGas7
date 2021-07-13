@@ -14,15 +14,17 @@ I'm studying as Full Stack Web Developer at Boolean Careers course.
 
 -- I'm currently learning different technologies :
 
-* _HTML_ 
-* _CSS_
-* _JS_
-* _PHP_
-* _Bootstrap-4.6_
-* _VueJS_
-* _SASS_ with _Laravel-Mix_
-* _MySQL_
-* _Laravel_
+ <div style="display:inline">
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="35" />
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS logo" title="CSS" height="35" />
+   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS logo" title="SASS" height="35" />
+   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="35" />
+   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="VueJS" title="Vue JS" height="35" />
+   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP" height="35" />
+   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" title="Laravel" height="35" />
+
+ </div>
+
 
 <hr>
 
